@@ -1,0 +1,12 @@
+E:\ISIS\3 INF\INF\Esercizi\MuoviOggetto\MuoviOggetto\bin\Debug\MuoviOggetto.exe.config
+E:\ISIS\3 INF\INF\Esercizi\MuoviOggetto\MuoviOggetto\obj\Debug\MuoviOggetto.csprojResolveAssemblyReference.cache
+E:\ISIS\3 INF\INF\Esercizi\MuoviOggetto\MuoviOggetto\bin\Debug\MuoviOggetto.exe
+E:\ISIS\3 INF\INF\Esercizi\MuoviOggetto\MuoviOggetto\bin\Debug\MuoviOggetto.pdb
+E:\ISIS\3 INF\INF\Esercizi\MuoviOggetto\MuoviOggetto\obj\Debug\MuoviOggetto.exe
+E:\ISIS\3 INF\INF\Esercizi\MuoviOggetto\MuoviOggetto\obj\Debug\MuoviOggetto.pdb
+E:\ISIS\3 INF\INF\Esercizi\Muovi Oggetto\MuoviOggetto\MuoviOggetto\bin\Debug\MuoviOggetto.exe.config
+E:\ISIS\3 INF\INF\Esercizi\Muovi Oggetto\MuoviOggetto\MuoviOggetto\obj\Debug\MuoviOggetto.exe
+E:\ISIS\3 INF\INF\Esercizi\Muovi Oggetto\MuoviOggetto\MuoviOggetto\obj\Debug\MuoviOggetto.pdb
+E:\ISIS\3 INF\INF\Esercizi\Muovi Oggetto\MuoviOggetto\MuoviOggetto\obj\Debug\MuoviOggetto.csprojResolveAssemblyReference.cache
+E:\ISIS\3 INF\INF\Esercizi\Muovi Oggetto\MuoviOggetto\MuoviOggetto\bin\Debug\MuoviOggetto.exe
+E:\ISIS\3 INF\INF\Esercizi\Muovi Oggetto\MuoviOggetto\MuoviOggetto\bin\Debug\MuoviOggetto.pdb
